@@ -13,7 +13,6 @@
 - Controllers
 - Database
 - Models
-- Types
 - Tests
   - Integration
 
@@ -30,7 +29,7 @@
 ### Download
 
 ```
-git clone https://github.com/MatheusCoxxxta/TypeScript-Node-Boilerplate.git server
+git clone https://github.com/MatheusCoxxxta/JavaScript-Node-Boilerplate-CommonJS-.git server
 ```
 <br/>
 
